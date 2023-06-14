@@ -1,0 +1,7 @@
+gcc name.c -o name.exe -fopenmp
+
+gcc name.c -o name.exe
+
+chmod +x 
+
+nvcc name.cu -o name

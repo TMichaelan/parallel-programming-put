@@ -1,0 +1,10 @@
+num threads = 1
+0.0005
+num threads = 2
+0.0004
+num threads = 4
+0.0005
+num threads = 8
+0.0009
+num threads = 12
+0.0014
